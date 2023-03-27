@@ -47,3 +47,6 @@
 ### 第5章 \cosmos\cpp11book\第5章\
 
 ### 第6章 \cosmos\cpp11book\第6章\
+
+### 感谢[祁宇老师](https://github.com/qicosmos/)!
+### 感谢所有为提高c++的易用性付出努力的小伙伴们！
